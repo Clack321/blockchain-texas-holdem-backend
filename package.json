@@ -1,0 +1,27 @@
+{
+  "name": "blockchain-texas-holdem-backend",
+  "version": "1.0.0",
+  "description": "Texas Holdem Blockchain readme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clack321/blockchain-texas-holdem-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clack321/blockchain-texas-holdem-backend/issues"
+  },
+  "homepage": "https://github.com/Clack321/blockchain-texas-holdem-backend#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.1"
+  }
+}
